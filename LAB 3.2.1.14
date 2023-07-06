@@ -1,4 +1,4 @@
-#Top down approach, let's say if there are total of 6 blocks then, if Layer 1= 1 block, Layer 2= 2 block and Layer 3= 4 blocks
+#Top down approach, let's say if there are total of 6 blocks then, if Layer 1= 1 block, Layer 2= 2 block and Layer 3= 3 blocks
 blocks = int(input("Enter the number of blocks: "))
 
 height=0
